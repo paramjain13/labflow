@@ -1,3 +1,4 @@
 opencv-python-headless
 numpy
 pytest
+psycopg2-binary
